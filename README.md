@@ -1,7 +1,8 @@
 # I code stuff
-https://www.youtube.com/channel/UCiUZ_gJhF9N1R_27msKwnkQ
 
 https://linktr.ee/ariescm
+
+Contact me through discord, aries#0002
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ariescmZ&show_icons=true&theme=synthwave" />
 
