@@ -16,3 +16,4 @@
   <img alt="My repo stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariescmZ&langs_count=8" />
 </p>
 
+thx MineGame159 for readme layout
