@@ -8,3 +8,6 @@ add me in discord, aries#0002
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariescmZ&langs_count=8" />
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ariescmZ&repo=4pop)](https://github.com/ariescmZ/4pop)
+
+
