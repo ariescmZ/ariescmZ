@@ -1,12 +1,18 @@
-# I code stuff
+# i code stuff
 
-https://linktr.ee/ariescm
+<p align="center">
+  im working on:<br>
+  <ul>
+    <li><a href="https://github.com/ariescmZ/4pop">4pop</a> | a utility hacked client made for anarchy servers</li>
+  </ul>
+</p>
 
-add me in discord, aries#0002
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=ariescmZ" alt="ariescmZ"/>
+</p>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ariescmZ&show_icons=true&theme=synthwave" />
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariescmZ&langs_count=8" />
-
-
+<p align="center">
+<img alt="My repo stats" src="https://github-readme-stats.vercel.app/api?username=ariescmZ&show_icons=true&theme=radical">
+  <img alt="My repo stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariescmZ&langs_count=8" />
+</p>
 
