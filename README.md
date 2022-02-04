@@ -6,7 +6,9 @@
 <hr>
 <p align="center">
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariescmZ&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="ovi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariescmZ&show_icons=true&locale=en&layout=compact&theme=material-palenight"
+alt="ovi" /></p>
+
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ariescmZ&show_icons=true&locale=en&theme=material-palenight" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
