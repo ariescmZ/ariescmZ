@@ -16,4 +16,4 @@
   <img alt="My repo stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariescmZ&langs_count=8" />
 </p>
 
-https://linktr.ee/ariescm
+https://ariescmz.github.io/ariescm/
