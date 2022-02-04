@@ -1,8 +1,5 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ariescmZ" alt="ariescmZ"/>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ariescmZ&theme=material-palenight" alt="ariescmZ"  /></p>
-
-
 <hr>
 <p align="center">
   
