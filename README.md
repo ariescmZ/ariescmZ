@@ -1,19 +1,15 @@
-# i code stuff
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ariescmZ" alt="ariescmZ"/>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ariescmZ&theme=material-palenight" alt="ariescmZ"  /></p>
+
+
+<hr>
 <p align="center">
-  im working on:<br>
-  <ul>
-    <li><a href="https://github.com/ariescmZ/4pop">4pop</a> | a utility hacked client made for anarchy servers</li>
-  </ul>
-</p>
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariescmZ&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ariescmZ&show_icons=true&locale=en&theme=material-palenight" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
 
-<p align="center">
-   <img src="https://komarev.com/ghpvc/?username=ariescmZ" alt="ariescmZ"/>
-</p>
+<hr>
 
-<p align="center">
-<img alt="My repo stats" src="https://github-readme-stats.vercel.app/api?username=ariescmZ&show_icons=true&theme=radical">
-  <img alt="My repo stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariescmZ&langs_count=8" />
-</p>
-
-https://ariescmz.github.io/ariescm/
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ariescmZ&theme=material-palenight&hide_border=true&area=true)
